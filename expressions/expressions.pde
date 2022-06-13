@@ -1,1 +1,15 @@
-
+int hjl=5/4+1;
+println (hjl);
+int jbt=7+9-2;
+println (jbt);
+int you=8_9/1;
+println (you);
+int and=9*8;
+println (and);
+int me=4004*2;
+println (me);
+boolean boo;
+boo=(true);
+boolean coo;
+coo=false;
+boolean naw = (!true);
